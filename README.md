@@ -17,3 +17,4 @@
 
 类图中的“类”与面向对象语言中的“类”的概念是对应的，是对现实世界中事物的抽象。
 
+(https://github.com/11024117/SEM/blob/main/0.drawio.png)

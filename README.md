@@ -116,7 +116,7 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 
 需求过程中的名词组
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/8.1%E5%90%8D%E8%A9%9E%E7%B5%84.drawio.png)
 
 需求过程中的动词组
 

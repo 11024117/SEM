@@ -77,21 +77,21 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 特殊关联关系，指明一个聚合（整体）和组成部分之间的关系
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.2.2.drawio.png)
 
 **组合关系：**
 
 语义更强的聚合，部分和整体具有相同的生命周期
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.2.1%E7%B5%84%E5%90%88%E9%97%9C%E4%BF%82.drawio.png)
 
 **6.2.2、泛化关系：**
 
 在面向对象中一般称为继承关系，存在于父类与子类、父接口与子接口
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.2.2%E6%B3%9B%E5%8C%96%E9%97%9C%E4%BF%82.drawio.png)
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.2.2%E6%B3%9B%E5%8C%96%E9%97%9C%E4%BF%822.drawio.png)
 
 **6.2.3、实现关系：**
 

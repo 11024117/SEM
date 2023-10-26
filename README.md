@@ -42,7 +42,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 从上到下分为三部分，分别是类名、属性和操作。
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.1.1.png)
 
 **6.1.2、接口**
 

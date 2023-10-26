@@ -124,7 +124,7 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 
 **8.2、绘制类图**
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/8.2.drawio.png)
 
 **⑨、对象图**
 

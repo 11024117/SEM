@@ -97,7 +97,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 对应于类和接口之间的关系
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.3.3%E5%AF%A6%E7%8F%BE%E9%97%9C%E4%BF%82.drawio.png)
 
 **6.2.4、依赖关系：**
 

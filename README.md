@@ -49,7 +49,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 一组操作的集合，只有操作的声明而没有实现。接口图与类图的主要区别在于顶端的<<interface>>显示。第一行是接口名称，第二行是接口方法。接口还有另一种表示方
 法，俗称棒棒糖表示方法。唐老鸭是能讲人话的唐老鸭，实现了讲人话的接口。如图：
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.1.2.png)
 
 **6.1.3、抽象类**
 

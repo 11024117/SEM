@@ -77,13 +77,13 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 特殊关联关系，指明一个聚合（整体）和组成部分之间的关系
 
-![image](https://github.com/11024117/SEM/blob/main/6.2.2.drawio.png)
+![image](https://github.com/11024117/SEM/blob/main/%E6%9B%B46.2.1%E8%81%9A%E5%90%88%E9%97%9C%E4%BF%82.drawio.png)
 
 **组合关系：**
 
 语义更强的聚合，部分和整体具有相同的生命周期
 
-![image](https://github.com/11024117/SEM/blob/main/6.2.1%E7%B5%84%E5%90%88%E9%97%9C%E4%BF%82.drawio.png)
+![image](https://github.com/11024117/SEM/blob/main/%E6%9B%B46.2.1%E7%B5%84%E5%90%88%E9%97%9C%E4%BF%82.drawio.png)
 
 **6.2.2、泛化关系：**
 
@@ -124,7 +124,7 @@ UML类图依赖关系是一种使用关系，特定事物的改变有可能会�
 
 **8.2、绘制类图**
 
-![image](https://github.com/11024117/SEM/blob/main/8.2.drawio.png)
+![image](https://github.com/11024117/SEM/blob/main/%E6%9B%B48.2.drawio.png)
 
 **⑨、对象图**
 

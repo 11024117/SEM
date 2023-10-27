@@ -55,13 +55,13 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 不能被实例化的类，一般至少包含一个抽象操作，与类图的主要区别在于抽象类的名称、方法为斜体。
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.1.3.png)
 
 **6.1.4、模板类**
 
 一种参数化的类，在编译时把模板参数绑定到不同的数据类型，从而产生不同的类。
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.1.4%E6%A8%A1%E6%9D%BF%E9%A1%9E.png)
 
 **6.2、类的关系**
 
@@ -69,7 +69,7 @@ https://blog.csdn.net/monkey_d_meng/article/details/6005764
 
 描述了类的结构之间的关系，具有方向、名字、角色和多重性等信息。
 
-![image]()
+![image](https://github.com/11024117/SEM/blob/main/6.2.1.png)
 
 一般的关联关系语义较弱，也有两种语义较强，分别是聚合和组合
 
